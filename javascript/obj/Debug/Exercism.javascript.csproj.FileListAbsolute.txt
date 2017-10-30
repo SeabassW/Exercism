@@ -1,0 +1,6 @@
+F:\Code\Exercism\javascript\bin\Exercism.javascript.dll.config
+F:\Code\Exercism\javascript\bin\Exercism.javascript.dll
+F:\Code\Exercism\javascript\bin\Exercism.javascript.pdb
+F:\Code\Exercism\javascript\obj\Debug\Exercism.javascript.csproj.CoreCompileInputs.cache
+F:\Code\Exercism\javascript\obj\Debug\Exercism.javascript.dll
+F:\Code\Exercism\javascript\obj\Debug\Exercism.javascript.pdb
